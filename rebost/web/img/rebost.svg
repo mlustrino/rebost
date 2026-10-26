@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Rebost">
+  <!-- Marc de l'armari -->
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#7a4b2a"/>
+  <rect x="10" y="10" width="44" height="44" rx="3" fill="#f5e6c8"/>
+  <!-- Prestatge del mig -->
+  <rect x="10" y="30" width="44" height="3" fill="#7a4b2a"/>
+  <!-- Prestatge de dalt: pots i caixa -->
+  <rect x="16" y="15" width="8" height="3" rx="1" fill="#386641"/>
+  <rect x="15" y="18" width="10" height="12" rx="2" fill="#6a994e"/>
+  <rect x="30" y="17" width="8" height="3" rx="1" fill="#9c3d25"/>
+  <rect x="29" y="20" width="10" height="10" rx="2" fill="#e07a5f"/>
+  <rect x="43" y="22" width="8" height="8" rx="1" fill="#f2cc8f" stroke="#7a4b2a" stroke-width="1"/>
+  <!-- Prestatge de baix: pot gran i llaunes -->
+  <rect x="16" y="35" width="10" height="3" rx="1" fill="#7a2e2f"/>
+  <rect x="14" y="38" width="14" height="16" rx="3" fill="#bc4749"/>
+  <rect x="33" y="42" width="8" height="12" rx="1" fill="#5b8ba8"/>
+  <rect x="44" y="44" width="7" height="10" rx="1" fill="#f2cc8f" stroke="#7a4b2a" stroke-width="1"/>
+</svg>
