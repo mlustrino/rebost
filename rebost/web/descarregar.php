@@ -1,10 +1,6 @@
 <?php
 session_start();
 require_once __DIR__ . '/includes/config.php';   // define DIR_IMATGES
-if (!isset($_SESSION['logged']) || $_SESSION['logged'] !== true) {
-    http_response_code(401);
-    exit('Has d\'iniciar sessió');
-}
 
 $carpeta = DIR_IMATGES;
 $nom  = basename($_GET['arxiu'] ?? '');
