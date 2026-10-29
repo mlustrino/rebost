@@ -51,3 +51,4 @@ sudo chown www-data:www-data /var/www/crear_hash.php
 # 3) Crear usuaris
 php crear_hash.php >> /var/www/dades/config/usuaris.txt
 
+```
